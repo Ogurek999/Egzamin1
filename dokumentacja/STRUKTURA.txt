@@ -1,0 +1,4 @@
+﻿TEST_01/
+  konsolowa/    main.cpp, projekt Visual Studio, konsolowa.exe, konsola.zip
+  desktopowa/   Program.cs, Form1.cs, projekt Visual Studio, desktopowa.exe, desktopowa.zip
+  dokumentacja/ konsola1.png, desktop1.png, desktop2.png, egzamin.txt, testy.txt

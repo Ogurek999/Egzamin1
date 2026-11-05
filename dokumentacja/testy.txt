@@ -1,0 +1,42 @@
+﻿TESTY - TEST_01
+
+CZESC I - PROGRAM KONSOLOWY C++
+
+Test 1 - dane poprawne
+Dane: n=5; Ola 10, Jan 16, Anna 16, Ewa 8, Adam 10.
+Wynik oczekiwany: Anna 16, Jan 16, Adam 10, Ola 10, Ewa 8; srednia 12,00; powyzej sredniej 2.
+Wynik otrzymany: Anna 16, Jan 16, Adam 10, Ola 10, Ewa 8; srednia 12,00; powyzej sredniej 2.
+Rezultat: OK.
+
+Test 2 - bledna liczba zawodnikow i bledny wpis punktow
+Dane: liczbe zawodnikow wpisano jako abc, potem 2, a nastepnie 3. Punkty pierwszego zawodnika wpisano jako tekst, nastepnie 101, a potem poprawnie 10. Pozostali zawodnicy: Jan 20, Ala 30.
+Wynik oczekiwany: program ponawia pytanie dla abc, liczby 2, tekstu i wartosci 101; ranking Ala 30, Jan 20, Ola 10; srednia 20,00; powyzej sredniej 1.
+Wynik otrzymany: program ponawia pytanie po abc i po 2 zawodnikach oraz po tekscie i 101 punktach; ranking Ala 30, Jan 20, Ola 10; srednia 20,00; powyzej sredniej 1.
+Rezultat: OK.
+
+CZESC II - KALKULATOR WINDOWS FORMS C#
+
+Test 3 - obliczenie podstawowe
+Dane: Jan Kowalski, Standard, 1 miesiac, sauna i trener wylaczone.
+Wynik oczekiwany: 80,00 zl.
+Wynik otrzymany: 80,00 zl.
+Rezultat: OK.
+
+Test 4 - rabat i dodatki
+Dane: Jan Kowalski, Student, 6 miesiecy, sauna i trener wlaczone.
+Obliczenie: (60 zl + 25 zl) x 6 x 0,9 + 40 zl = 499,00 zl.
+Wynik oczekiwany: 499,00 zl.
+Wynik otrzymany: 499,00 zl.
+Rezultat: OK.
+
+Test 5 - odrzucenie pustego imienia i nazwiska
+Dane: pole imienia i nazwiska puste.
+Wynik oczekiwany: komunikat Podaj imie i nazwisko; aplikacja dziala dalej.
+Wynik otrzymany: komunikat Podaj imie i nazwisko; aplikacja pozostaje uruchomiona.
+Rezultat: OK.
+
+Test 6 - liczba miesiecy poza zakresem
+Dane: imie Test, 13 miesiecy.
+Wynik oczekiwany: komunikat o dozwolonym zakresie 1-12; aplikacja dziala dalej.
+Wynik otrzymany: komunikat o dozwolonym zakresie 1-12; aplikacja pozostaje uruchomiona.
+Rezultat: OK.

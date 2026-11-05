@@ -1,0 +1,9 @@
+﻿TEST_01
+Identyfikator: TEST_01
+System operacyjny: Microsoft Windows 11
+IDE: Visual Studio Code, Microsoft Visual Studio Build Tools
+Narzędzia GUI: Windows Forms
+Języki programowania: C++, C#
+
+Aplikacja konsolowa: ranking wynikow zawodnikow.
+Aplikacja desktopowa: kalkulator karnetu CLUB+.
